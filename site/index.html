@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
-<title>CS330 Question Bank</title>
+<title>CS1360 Question Bank</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -269,7 +269,7 @@ table.mini th { background: var(--paper); font-weight: 500; }
 <body>
 <header class="top">
   <div class="wrap">
-    <button class="brand" id="homeBtn" type="button" aria-label="Back to chapters"><b>CS330 Question Bank</b><span>Computer Networks</span></button>
+    <button class="brand" id="homeBtn" type="button" aria-label="Back to chapters"><b>CS1360 Question Bank</b><span>Artificial Intelligence</span></button>
     <div class="spacer"></div>
     <button class="iconbtn" id="themeBtn" type="button" aria-label="Switch theme">Theme: <span id="themeLbl">system</span></button>
   </div>
@@ -292,7 +292,7 @@ table.mini th { background: var(--paper); font-weight: 500; }
   var D = window.QDATA;
   var app = document.getElementById("app");
   var navbar = document.getElementById("navbar");
-  var STORE = "cs330bank.v1";
+  var STORE = "cs1360bank.v1";
 
   // ---------- persistence (per-viewer convenience only) ----------
   var saved = { answers: {}, shuffle: false, types: ["mcq", "tf", "short"] };
@@ -381,7 +381,7 @@ table.mini th { background: var(--paper); font-weight: 500; }
     var refs = D.questions.reduce(function (n, q) { return n + q.from.length; }, 0);
     var st = answeredStats(D.questions);
     var h = '<section class="hero"><span class="label">Exam questions sorted by lecture chapter</span>' +
-      '<h1>Practice every past Computer Networks exam question, chapter by chapter.</h1>' +
+      '<h1>Practice every past Artificial Intelligence exam question, chapter by chapter.</h1>' +
       '<p>Each question is solved from your lecture slides and shows the slide number where the answer is. Pick a chapter, answer one question at a time, and review your mistakes when you finish.</p>' +
       '<div class="stats"><span><b>' + total + '</b> unique questions</span><span><b>' + refs + '</b> appearances across <b>' + exams + '</b> exams &amp; quizzes</span><span><b>' + st.done + '</b> answered · <b>' + st.ok + '</b> correct</span></div></section>';
 
@@ -407,7 +407,7 @@ table.mini th { background: var(--paper); font-weight: 500; }
     main.forEach(function (n) { h += chapterCard(n); });
     h += '</div>';
     h += '<p class="note"><b>Keys:</b> <span class="kbd">←</span> <span class="kbd">→</span> move between questions, <span class="kbd">1</span>–<span class="kbd">6</span> pick an option, <span class="kbd">Enter</span> shows the solution, <span class="kbd">S</span> shuffles. Your answers are remembered in this browser only.</p>' +
-      '<p class="note" style="margin-top:.6rem">Only questions on Chapters 1–3 (Introduction, Application layer, Transport layer) are included. Network-layer and link-layer questions from older finals are left out because they are not in your slides.</p>';
+      '<p class="note" style="margin-top:.6rem">Only questions on the midterm chapters are included: 2 Intelligent Agents, 3 Uninformed Search, 4 Informed Search, 5 Games and 6 CSP. Logic, probability, Bayesian network and machine learning questions from older exams are left out because they are not in the midterm slides.</p>';
     app.innerHTML = h;
 
     document.getElementById("shuffleSw").addEventListener("click", function () {
@@ -470,7 +470,7 @@ table.mini th { background: var(--paper); font-weight: 500; }
       }).join("") + '</div><div class="legend"><span><i style="background:var(--ok)"></i>correct</span><span><i style="background:var(--bad)"></i>missed</span><span><i style="background:var(--rule)"></i>viewed</span><span><i style="background:var(--frame)"></i>not yet</span></div></div></section>';
 
     h += '<article class="sheet" aria-live="polite"><div class="qtext">' + wrapTables(q.q) + '</div>';
-    if (q.img) h += '<figure class="fig"><img src="img/' + esc(q.img) + '" alt="Figure from the original exam paper" loading="lazy"><figcaption>Figure from the exam paper</figcaption></figure>';
+    if (q.img) h += '<figure class="fig"><img src="img/' + esc(q.img) + '" alt="Figure from the original exam paper" loading="lazy"><figcaption>' + (/\.svg$/.test(q.img) ? 'Figure redrawn from the exam paper' : 'Figure from the exam paper') + '</figcaption></figure>';
 
     var revealed = !!rec.done || S.review;
     if (q.t === "mcq" || q.t === "tf") {
@@ -537,7 +537,7 @@ table.mini th { background: var(--paper); font-weight: 500; }
       h += '<div><h3>Answer</h3><div class="answer"><b>' + (q.t === "tf" ? "" : String.fromCharCode(65 + q.a) + ". ") + esc(opts[q.a]) + '</b></div></div>';
     }
     h += '<div><h3>How it is solved</h3><div class="expl">' + wrapTables(q.e) + '</div></div>';
-    if (q.aimg) h += '<figure class="fig"><img src="img/' + esc(q.aimg) + '" alt="Worked answer drawing" loading="lazy"><figcaption>Answer figure from the exam key or a solved copy</figcaption></figure>';
+    if (q.aimg) h += '<figure class="fig"><img src="img/' + esc(q.aimg) + '" alt="Worked answer drawing" loading="lazy"><figcaption>' + (/\.svg$/.test(q.aimg) ? 'Worked answer: minimax values and pruned branches' : 'Answer figure from the exam key or a solved copy') + '</figcaption></figure>';
     if (q.t === "short") {
       var g = rec.ok === true ? "1" : rec.ok === false ? "0" : "";
       h += '<div class="selfgrade"><span class="label">Did you get it?</span>' +

@@ -1,2 +1,5 @@
 # local preview config
 .claude/
+
+# past exam compilations are kept outside the repo
+exams/

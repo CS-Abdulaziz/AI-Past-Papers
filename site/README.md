@@ -1,11 +1,11 @@
-# CS330 Computer Networks — Practice Questions
+# CS1360 Artificial Intelligence — Practice Questions
 
-An interactive question bank built from the past exams in `../exams` (including the latest midterm, `mid_2026_term2.pdf`).
+An interactive question bank built from the past AI exams (midterms, finals and quizzes, 2021–2026).
 
-- 362 unique questions, each solved from the lecture slides and sorted into Chapter 1 (Introduction), Chapter 2 (Application Layer) and Chapter 3 (Transport Layer).
+- 216 unique questions, each solved from the lecture slides and sorted into Chapter 2 (Intelligent Agents), 3 (Uninformed Search), 4 (Informed Search), 5 (Games) and 6 (CSP).
 - Every solution says which slide(s) the answer comes from and which exam(s) the question appeared in.
 - Within each chapter the questions run from the newest exam to the oldest.
-- Network-layer and link-layer questions from older finals are left out, because they are not covered by the slides in `../slides`.
+- Logic, probability, Bayesian network and machine learning questions from older exams are left out, because they are not in the midterm slides in `../slides`.
 
 ## How to use
 
@@ -23,4 +23,4 @@ Keys: ← → move, 1–6 pick an option, Enter shows the solution, S shuffles. 
 |---|---|
 | `index.html` | The website |
 | `questions.js` | All questions, answers, explanations, slide references and exam sources |
-| `img/` | Figures cropped from the exam papers (`*-ans.jpg` are shown only with the solution) |
+| `img/` | Figures cropped from the exam papers or redrawn game trees (`*-ans.*` are shown only with the solution) |

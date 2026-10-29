@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 336" width="560" height="336" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<line x1="260.0" y1="45.0" x2="99.0" y2="93.0" stroke="#333" stroke-width="1.4"/>
+<line x1="99.0" y1="123.0" x2="53.0" y2="171.0" stroke="#333" stroke-width="1.4"/>
+<line x1="53.0" y1="201.0" x2="30.0" y2="249.0" stroke="#333" stroke-width="1.4"/>
+<line x1="53.0" y1="201.0" x2="76.0" y2="249.0" stroke="#333" stroke-width="1.4"/>
+<line x1="99.0" y1="123.0" x2="145.0" y2="171.0" stroke="#333" stroke-width="1.4"/>
+<line x1="145.0" y1="201.0" x2="122.0" y2="249.0" stroke="#333" stroke-width="1.4"/>
+<line x1="145.0" y1="201.0" x2="168.0" y2="249.0" stroke="#c62828" stroke-width="1.4" stroke-dasharray="5 4"/>
+<path d="M150.5,219.0 L162.5,231.0 M162.5,219.0 L150.5,231.0" stroke="#c62828" stroke-width="2.4"/>
+<line x1="260.0" y1="45.0" x2="248.5" y2="93.0" stroke="#333" stroke-width="1.4"/>
+<line x1="248.5" y1="123.0" x2="214.0" y2="171.0" stroke="#333" stroke-width="1.4"/>
+<line x1="214.0" y1="201.0" x2="214.0" y2="249.0" stroke="#333" stroke-width="1.4"/>
+<line x1="248.5" y1="123.0" x2="283.0" y2="171.0" stroke="#c62828" stroke-width="1.4" stroke-dasharray="5 4"/>
+<path d="M259.8,141.0 L271.8,153.0 M271.8,141.0 L259.8,153.0" stroke="#c62828" stroke-width="2.4"/>
+<line x1="283.0" y1="201.0" x2="260.0" y2="249.0" stroke="#c62828" stroke-width="1.4" stroke-dasharray="5 4"/>
+<line x1="283.0" y1="201.0" x2="306.0" y2="249.0" stroke="#c62828" stroke-width="1.4" stroke-dasharray="5 4"/>
+<line x1="260.0" y1="45.0" x2="421.0" y2="93.0" stroke="#333" stroke-width="1.4"/>
+<line x1="421.0" y1="123.0" x2="375.0" y2="171.0" stroke="#333" stroke-width="1.4"/>
+<line x1="375.0" y1="201.0" x2="352.0" y2="249.0" stroke="#333" stroke-width="1.4"/>
+<line x1="375.0" y1="201.0" x2="398.0" y2="249.0" stroke="#333" stroke-width="1.4"/>
+<line x1="421.0" y1="123.0" x2="467.0" y2="171.0" stroke="#c62828" stroke-width="1.4" stroke-dasharray="5 4"/>
+<path d="M438.0,141.0 L450.0,153.0 M450.0,141.0 L438.0,153.0" stroke="#c62828" stroke-width="2.4"/>
+<line x1="467.0" y1="201.0" x2="444.0" y2="249.0" stroke="#c62828" stroke-width="1.4" stroke-dasharray="5 4"/>
+<line x1="467.0" y1="201.0" x2="490.0" y2="249.0" stroke="#c62828" stroke-width="1.4" stroke-dasharray="5 4"/>
+<polygon points="260.0,13.0 277.0,43.0 243.0,43.0" fill="#fff" stroke="#222" stroke-width="1.4"/>
+<text x="260.0" y="35.0" text-anchor="middle" font-size="11" fill="#444">A</text>
+<text x="280.0" y="24.0" font-size="14" font-weight="700" fill="#1565c0">3</text>
+<polygon points="99.0,125.0 116.0,95.0 82.0,95.0" fill="#fff" stroke="#222" stroke-width="1.4"/>
+<text x="99.0" y="109.0" text-anchor="middle" font-size="11" fill="#444">B</text>
+<text x="119.0" y="102.0" font-size="14" font-weight="700" fill="#1565c0">3</text>
+<polygon points="53.0,169.0 70.0,199.0 36.0,199.0" fill="#fff" stroke="#222" stroke-width="1.4"/>
+<text x="53.0" y="191.0" text-anchor="middle" font-size="11" fill="#444">E</text>
+<text x="73.0" y="180.0" font-size="14" font-weight="700" fill="#1565c0">3</text>
+<rect x="15.0" y="249.0" width="30" height="30" rx="3" fill="#fff" stroke="#222" stroke-width="1.4"/>
+<text x="30.0" y="269.0" text-anchor="middle" font-size="14" font-weight="700" fill="#111">2</text>
+<rect x="61.0" y="249.0" width="30" height="30" rx="3" fill="#fff" stroke="#222" stroke-width="1.4"/>
+<text x="76.0" y="269.0" text-anchor="middle" font-size="14" font-weight="700" fill="#111">3</text>
+<polygon points="145.0,169.0 162.0,199.0 128.0,199.0" fill="#fff" stroke="#222" stroke-width="1.4"/>
+<text x="145.0" y="191.0" text-anchor="middle" font-size="11" fill="#444">F</text>
+<text x="165.0" y="180.0" font-size="14" font-weight="700" fill="#1565c0">9</text>
+<rect x="107.0" y="249.0" width="30" height="30" rx="3" fill="#fff" stroke="#222" stroke-width="1.4"/>
+<text x="122.0" y="269.0" text-anchor="middle" font-size="14" font-weight="700" fill="#111">5</text>
+<rect x="153.0" y="249.0" width="30" height="30" rx="3" fill="#f6f6f6" stroke="#c62828" stroke-width="1.4"/>
+<text x="168.0" y="269.0" text-anchor="middle" font-size="14" font-weight="700" fill="#c62828">9</text>
+<polygon points="248.5,125.0 265.5,95.0 231.5,95.0" fill="#fff" stroke="#222" stroke-width="1.4"/>
+<text x="248.5" y="109.0" text-anchor="middle" font-size="11" fill="#444">C</text>
+<text x="268.5" y="102.0" font-size="14" font-weight="700" fill="#1565c0">0</text>
+<polygon points="214.0,169.0 231.0,199.0 197.0,199.0" fill="#fff" stroke="#222" stroke-width="1.4"/>
+<text x="214.0" y="191.0" text-anchor="middle" font-size="11" fill="#444">G</text>
+<text x="234.0" y="180.0" font-size="14" font-weight="700" fill="#1565c0">0</text>
+<rect x="199.0" y="249.0" width="30" height="30" rx="3" fill="#fff" stroke="#222" stroke-width="1.4"/>
+<text x="214.0" y="269.0" text-anchor="middle" font-size="14" font-weight="700" fill="#111">0</text>
+<polygon points="283.0,169.0 300.0,199.0 266.0,199.0" fill="#f6f6f6" stroke="#c62828" stroke-width="1.4"/>
+<text x="283.0" y="191.0" text-anchor="middle" font-size="11" fill="#444">H</text>
+<text x="303.0" y="180.0" font-size="14" font-weight="700" fill="#888"></text>
+<rect x="245.0" y="249.0" width="30" height="30" rx="3" fill="#f6f6f6" stroke="#c62828" stroke-width="1.4"/>
+<text x="260.0" y="269.0" text-anchor="middle" font-size="14" font-weight="700" fill="#c62828">6</text>
+<rect x="291.0" y="249.0" width="30" height="30" rx="3" fill="#f6f6f6" stroke="#c62828" stroke-width="1.4"/>
+<text x="306.0" y="269.0" text-anchor="middle" font-size="14" font-weight="700" fill="#c62828">4</text>
+<polygon points="421.0,125.0 438.0,95.0 404.0,95.0" fill="#fff" stroke="#222" stroke-width="1.4"/>
+<text x="421.0" y="109.0" text-anchor="middle" font-size="11" fill="#444">D</text>
+<text x="441.0" y="102.0" font-size="14" font-weight="700" fill="#1565c0">2</text>
+<polygon points="375.0,169.0 392.0,199.0 358.0,199.0" fill="#fff" stroke="#222" stroke-width="1.4"/>
+<text x="375.0" y="191.0" text-anchor="middle" font-size="11" fill="#444">I</text>
+<text x="395.0" y="180.0" font-size="14" font-weight="700" fill="#1565c0">2</text>
+<rect x="337.0" y="249.0" width="30" height="30" rx="3" fill="#fff" stroke="#222" stroke-width="1.4"/>
+<text x="352.0" y="269.0" text-anchor="middle" font-size="14" font-weight="700" fill="#111">2</text>
+<rect x="383.0" y="249.0" width="30" height="30" rx="3" fill="#fff" stroke="#222" stroke-width="1.4"/>
+<text x="398.0" y="269.0" text-anchor="middle" font-size="14" font-weight="700" fill="#111">1</text>
+<polygon points="467.0,169.0 484.0,199.0 450.0,199.0" fill="#f6f6f6" stroke="#c62828" stroke-width="1.4"/>
+<text x="467.0" y="191.0" text-anchor="middle" font-size="11" fill="#444">J</text>
+<text x="487.0" y="180.0" font-size="14" font-weight="700" fill="#888"></text>
+<rect x="429.0" y="249.0" width="30" height="30" rx="3" fill="#f6f6f6" stroke="#c62828" stroke-width="1.4"/>
+<text x="444.0" y="269.0" text-anchor="middle" font-size="14" font-weight="700" fill="#c62828">7</text>
+<rect x="475.0" y="249.0" width="30" height="30" rx="3" fill="#f6f6f6" stroke="#c62828" stroke-width="1.4"/>
+<text x="490.0" y="269.0" text-anchor="middle" font-size="14" font-weight="700" fill="#c62828">5</text>
+<text x="552" y="35.0" text-anchor="end" font-size="12" font-weight="700" fill="#555">MAX</text>
+<text x="552" y="113.0" text-anchor="end" font-size="12" font-weight="700" fill="#555">MIN</text>
+<text x="552" y="191.0" text-anchor="end" font-size="12" font-weight="700" fill="#555">MAX</text>
+<text x="552" y="269.0" text-anchor="end" font-size="12" font-weight="700" fill="#555">MIN</text>
+<text x="8" y="328" font-size="11" fill="#555">Blue = minimax value · red dashed = pruned by alpha-beta</text>
+</svg>
