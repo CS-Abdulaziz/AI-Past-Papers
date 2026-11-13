@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 240" width="560" height="240" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker></defs>
+<line x1="374.0" y1="50.0" x2="196.0" y2="50.0" stroke="#333" stroke-width="1.5" marker-end="url(#ar)"/>
+<line x1="170.0" y1="150.0" x2="170.0" y2="70.0" stroke="#333" stroke-width="1.5" marker-end="url(#ar)"/>
+<line x1="196.0" y1="170.0" x2="374.0" y2="170.0" stroke="#333" stroke-width="1.5" marker-end="url(#ar)"/>
+<ellipse cx="170" cy="50" rx="26" ry="20" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<text x="170" y="55" text-anchor="middle" font-size="14" fill="#111">S</text>
+<ellipse cx="400" cy="50" rx="26" ry="20" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<text x="400" y="55" text-anchor="middle" font-size="14" fill="#111">B</text>
+<ellipse cx="170" cy="170" rx="26" ry="20" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<text x="170" y="175" text-anchor="middle" font-size="14" fill="#111">G</text>
+<ellipse cx="400" cy="170" rx="26" ry="20" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<text x="400" y="175" text-anchor="middle" font-size="14" fill="#111">F</text>
+<rect x="14" y="40" width="106" height="110" fill="#fff" stroke="#444" stroke-width="1"/>
+<rect x="14" y="40" width="106" height="22" fill="#f1f3f5" stroke="#444" stroke-width="1"/>
+<line x1="14" y1="62" x2="120" y2="62" stroke="#bbb"/>
+<line x1="14" y1="84" x2="120" y2="84" stroke="#bbb"/>
+<line x1="14" y1="106" x2="120" y2="106" stroke="#bbb"/>
+<line x1="14" y1="128" x2="120" y2="128" stroke="#bbb"/>
+<text x="29.0" y="55" text-anchor="middle" font-size="12.5" font-weight="700" fill="#111">G</text>
+<text x="29.0" y="77" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">g</text>
+<text x="29.0" y="99" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">g</text>
+<text x="29.0" y="121" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">¬g</text>
+<text x="29.0" y="143" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">¬g</text>
+<line x1="44" y1="40" x2="44" y2="150" stroke="#bbb"/>
+<text x="59.0" y="55" text-anchor="middle" font-size="12.5" font-weight="700" fill="#111">B</text>
+<text x="59.0" y="77" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">b</text>
+<text x="59.0" y="99" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">¬b</text>
+<text x="59.0" y="121" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">b</text>
+<text x="59.0" y="143" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">¬b</text>
+<line x1="74" y1="40" x2="74" y2="150" stroke="#bbb"/>
+<text x="97.0" y="55" text-anchor="middle" font-size="12.5" font-weight="700" fill="#111">P(s)</text>
+<text x="97.0" y="77" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">0.9</text>
+<text x="97.0" y="99" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">0.05</text>
+<text x="97.0" y="121" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">0.0</text>
+<text x="97.0" y="143" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">0.0</text>
+<rect x="440" y="15" width="46" height="44" fill="#fff" stroke="#444" stroke-width="1"/>
+<rect x="440" y="15" width="46" height="22" fill="#f1f3f5" stroke="#444" stroke-width="1"/>
+<line x1="440" y1="37" x2="486" y2="37" stroke="#bbb"/>
+<text x="463.0" y="30" text-anchor="middle" font-size="12.5" font-weight="700" fill="#111">P(b)</text>
+<text x="463.0" y="52" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">0.7</text>
+<rect x="200" y="195" width="46" height="44" fill="#fff" stroke="#444" stroke-width="1"/>
+<rect x="200" y="195" width="46" height="22" fill="#f1f3f5" stroke="#444" stroke-width="1"/>
+<line x1="200" y1="217" x2="246" y2="217" stroke="#bbb"/>
+<text x="223.0" y="210" text-anchor="middle" font-size="12.5" font-weight="700" fill="#111">P(g)</text>
+<text x="223.0" y="232" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">0.95</text>
+<rect x="440" y="140" width="76" height="66" fill="#fff" stroke="#444" stroke-width="1"/>
+<rect x="440" y="140" width="76" height="22" fill="#f1f3f5" stroke="#444" stroke-width="1"/>
+<line x1="440" y1="162" x2="516" y2="162" stroke="#bbb"/>
+<line x1="440" y1="184" x2="516" y2="184" stroke="#bbb"/>
+<text x="455.0" y="155" text-anchor="middle" font-size="12.5" font-weight="700" fill="#111">G</text>
+<text x="455.0" y="177" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">g</text>
+<text x="455.0" y="199" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">¬g</text>
+<line x1="470" y1="140" x2="470" y2="206" stroke="#bbb"/>
+<text x="493.0" y="155" text-anchor="middle" font-size="12.5" font-weight="700" fill="#111">P(f)</text>
+<text x="493.0" y="177" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">0.95</text>
+<text x="493.0" y="199" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">0.1</text>
+</svg>

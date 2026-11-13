@@ -2,10 +2,10 @@
 
 An interactive question bank built from the past AI exams (midterms, finals and quizzes, 2021–2026).
 
-- 216 unique questions, each solved from the lecture slides and sorted into Chapter 2 (Intelligent Agents), 3 (Uninformed Search), 4 (Informed Search), 5 (Games) and 6 (CSP).
+- 277 unique questions, each solved from the lecture slides and sorted into Chapter 2 (Intelligent Agents), 3 (Uninformed Search), 4 (Informed Search), 5 (Games), 6 (CSP), 7 (Logical Agents), 8 (Uncertainty) and 9 (Bayesian Networks).
 - Every solution says which slide(s) the answer comes from and which exam(s) the question appeared in.
 - Within each chapter the questions run from the newest exam to the oldest.
-- Logic, probability, Bayesian network and machine learning questions from older exams are left out, because they are not in the midterm slides in `../slides`.
+- Lecture 1 and machine learning questions from older exams are left out, because they are not in the slides in `../slides`.
 
 ## How to use
 

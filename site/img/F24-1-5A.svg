@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 250" width="360" height="250" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker></defs>
+<line x1="163.6" y1="50.5" x2="106.4" y2="104.5" stroke="#333" stroke-width="1.5" marker-end="url(#ar)"/>
+<line x1="196.4" y1="50.5" x2="253.6" y2="104.5" stroke="#333" stroke-width="1.5" marker-end="url(#ar)"/>
+<line x1="105.9" y1="135.9" x2="164.1" y2="194.1" stroke="#333" stroke-width="1.5" marker-end="url(#ar)"/>
+<line x1="254.1" y1="135.9" x2="195.9" y2="194.1" stroke="#333" stroke-width="1.5" marker-end="url(#ar)"/>
+<ellipse cx="180" cy="35" rx="26" ry="20" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<text x="180" y="40" text-anchor="middle" font-size="14" fill="#111">F</text>
+<ellipse cx="90" cy="120" rx="26" ry="20" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<text x="90" y="125" text-anchor="middle" font-size="14" fill="#111">H</text>
+<ellipse cx="270" cy="120" rx="26" ry="20" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<text x="270" y="125" text-anchor="middle" font-size="14" fill="#111">S</text>
+<ellipse cx="180" cy="210" rx="26" ry="20" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<text x="180" y="215" text-anchor="middle" font-size="14" fill="#111">A</text>
+</svg>

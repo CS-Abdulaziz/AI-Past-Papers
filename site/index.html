@@ -407,7 +407,7 @@ table.mini th { background: var(--paper); font-weight: 500; }
     main.forEach(function (n) { h += chapterCard(n); });
     h += '</div>';
     h += '<p class="note"><b>Keys:</b> <span class="kbd">←</span> <span class="kbd">→</span> move between questions, <span class="kbd">1</span>–<span class="kbd">6</span> pick an option, <span class="kbd">Enter</span> shows the solution, <span class="kbd">S</span> shuffles. Your answers are remembered in this browser only.</p>' +
-      '<p class="note" style="margin-top:.6rem">Only questions on the midterm chapters are included: 2 Intelligent Agents, 3 Uninformed Search, 4 Informed Search, 5 Games and 6 CSP. Logic, probability, Bayesian network and machine learning questions from older exams are left out because they are not in the midterm slides.</p>';
+      '<p class="note" style="margin-top:.6rem">Chapters 2–6 (agents, search, games, CSP) cover the midterm; chapters 7–9 (logical agents, uncertainty, Bayesian networks) complete the final. Lecture 1 and machine learning questions from older exams are left out because they are not in the slides.</p>';
     app.innerHTML = h;
 
     document.getElementById("shuffleSw").addEventListener("click", function () {

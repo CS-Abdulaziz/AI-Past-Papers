@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 360" width="620" height="360" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker></defs>
+<line x1="252.0" y1="140.0" x2="328.0" y2="140.0" stroke="#333" stroke-width="1.5" marker-end="url(#ar)"/>
+<line x1="448.0" y1="140.0" x2="372.0" y2="140.0" stroke="#333" stroke-width="1.5" marker-end="url(#ar)"/>
+<line x1="246.6" y1="151.8" x2="333.4" y2="213.2" stroke="#333" stroke-width="1.5" marker-end="url(#ar)"/>
+<line x1="350.0" y1="158.0" x2="350.0" y2="207.0" stroke="#333" stroke-width="1.5" marker-end="url(#ar)"/>
+<line x1="453.4" y1="151.8" x2="366.6" y2="213.2" stroke="#333" stroke-width="1.5" marker-end="url(#ar)"/>
+<line x1="350.0" y1="243.0" x2="350.0" y2="292.0" stroke="#333" stroke-width="1.5" marker-end="url(#ar)"/>
+<ellipse cx="230" cy="140" rx="22" ry="18" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<text x="230" y="145" text-anchor="middle" font-size="14" fill="#111">B</text>
+<ellipse cx="350" cy="140" rx="22" ry="18" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<text x="350" y="145" text-anchor="middle" font-size="14" fill="#111">I</text>
+<ellipse cx="470" cy="140" rx="22" ry="18" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<text x="470" y="145" text-anchor="middle" font-size="14" fill="#111">M</text>
+<ellipse cx="350" cy="225" rx="22" ry="18" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<text x="350" y="230" text-anchor="middle" font-size="14" fill="#111">G</text>
+<ellipse cx="350" cy="310" rx="22" ry="18" fill="#fff" stroke="#222" stroke-width="1.5"/>
+<text x="350" y="315" text-anchor="middle" font-size="14" fill="#111">J</text>
+<rect x="150" y="110" width="46" height="44" fill="#fff" stroke="#444" stroke-width="1"/>
+<rect x="150" y="110" width="46" height="22" fill="#f1f3f5" stroke="#444" stroke-width="1"/>
+<line x1="150" y1="132" x2="196" y2="132" stroke="#bbb"/>
+<text x="173.0" y="125" text-anchor="middle" font-size="12.5" font-weight="700" fill="#111">P(B)</text>
+<text x="173.0" y="147" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">.9</text>
+<rect x="505" y="110" width="46" height="44" fill="#fff" stroke="#444" stroke-width="1"/>
+<rect x="505" y="110" width="46" height="22" fill="#f1f3f5" stroke="#444" stroke-width="1"/>
+<line x1="505" y1="132" x2="551" y2="132" stroke="#bbb"/>
+<text x="528.0" y="125" text-anchor="middle" font-size="12.5" font-weight="700" fill="#111">P(M)</text>
+<text x="528.0" y="147" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">.1</text>
+<rect x="310" y="5" width="90" height="110" fill="#fff" stroke="#444" stroke-width="1"/>
+<rect x="310" y="5" width="90" height="22" fill="#f1f3f5" stroke="#444" stroke-width="1"/>
+<line x1="310" y1="27" x2="400" y2="27" stroke="#bbb"/>
+<line x1="310" y1="49" x2="400" y2="49" stroke="#bbb"/>
+<line x1="310" y1="71" x2="400" y2="71" stroke="#bbb"/>
+<line x1="310" y1="93" x2="400" y2="93" stroke="#bbb"/>
+<text x="321.0" y="20" text-anchor="middle" font-size="12.5" font-weight="700" fill="#111">B</text>
+<text x="321.0" y="42" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">t</text>
+<text x="321.0" y="64" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">t</text>
+<text x="321.0" y="86" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">f</text>
+<text x="321.0" y="108" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">f</text>
+<line x1="332" y1="5" x2="332" y2="115" stroke="#bbb"/>
+<text x="343.0" y="20" text-anchor="middle" font-size="12.5" font-weight="700" fill="#111">M</text>
+<text x="343.0" y="42" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">t</text>
+<text x="343.0" y="64" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">f</text>
+<text x="343.0" y="86" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">t</text>
+<text x="343.0" y="108" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">f</text>
+<line x1="354" y1="5" x2="354" y2="115" stroke="#bbb"/>
+<text x="377.0" y="20" text-anchor="middle" font-size="12.5" font-weight="700" fill="#111">P(I)</text>
+<text x="377.0" y="42" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">.9</text>
+<text x="377.0" y="64" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">.5</text>
+<text x="377.0" y="86" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">.5</text>
+<text x="377.0" y="108" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">.1</text>
+<rect x="14" y="150" width="112" height="198" fill="#fff" stroke="#444" stroke-width="1"/>
+<rect x="14" y="150" width="112" height="22" fill="#f1f3f5" stroke="#444" stroke-width="1"/>
+<line x1="14" y1="172" x2="126" y2="172" stroke="#bbb"/>
+<line x1="14" y1="194" x2="126" y2="194" stroke="#bbb"/>
+<line x1="14" y1="216" x2="126" y2="216" stroke="#bbb"/>
+<line x1="14" y1="238" x2="126" y2="238" stroke="#bbb"/>
+<line x1="14" y1="260" x2="126" y2="260" stroke="#bbb"/>
+<line x1="14" y1="282" x2="126" y2="282" stroke="#bbb"/>
+<line x1="14" y1="304" x2="126" y2="304" stroke="#bbb"/>
+<line x1="14" y1="326" x2="126" y2="326" stroke="#bbb"/>
+<text x="25.0" y="165" text-anchor="middle" font-size="12.5" font-weight="700" fill="#111">B</text>
+<text x="25.0" y="187" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">t</text>
+<text x="25.0" y="209" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">t</text>
+<text x="25.0" y="231" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">t</text>
+<text x="25.0" y="253" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">t</text>
+<text x="25.0" y="275" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">f</text>
+<text x="25.0" y="297" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">f</text>
+<text x="25.0" y="319" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">f</text>
+<text x="25.0" y="341" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">f</text>
+<line x1="36" y1="150" x2="36" y2="348" stroke="#bbb"/>
+<text x="47.0" y="165" text-anchor="middle" font-size="12.5" font-weight="700" fill="#111">I</text>
+<text x="47.0" y="187" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">t</text>
+<text x="47.0" y="209" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">t</text>
+<text x="47.0" y="231" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">f</text>
+<text x="47.0" y="253" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">f</text>
+<text x="47.0" y="275" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">t</text>
+<text x="47.0" y="297" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">t</text>
+<text x="47.0" y="319" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">f</text>
+<text x="47.0" y="341" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">f</text>
+<line x1="58" y1="150" x2="58" y2="348" stroke="#bbb"/>
+<text x="69.0" y="165" text-anchor="middle" font-size="12.5" font-weight="700" fill="#111">M</text>
+<text x="69.0" y="187" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">t</text>
+<text x="69.0" y="209" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">f</text>
+<text x="69.0" y="231" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">t</text>
+<text x="69.0" y="253" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">f</text>
+<text x="69.0" y="275" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">t</text>
+<text x="69.0" y="297" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">f</text>
+<text x="69.0" y="319" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">t</text>
+<text x="69.0" y="341" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">f</text>
+<line x1="80" y1="150" x2="80" y2="348" stroke="#bbb"/>
+<text x="103.0" y="165" text-anchor="middle" font-size="12.5" font-weight="700" fill="#111">P(G)</text>
+<text x="103.0" y="187" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">.9</text>
+<text x="103.0" y="209" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">.8</text>
+<text x="103.0" y="231" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">.0</text>
+<text x="103.0" y="253" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">.0</text>
+<text x="103.0" y="275" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">.2</text>
+<text x="103.0" y="297" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">.1</text>
+<text x="103.0" y="319" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">.0</text>
+<text x="103.0" y="341" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">.0</text>
+<rect x="420" y="260" width="68" height="66" fill="#fff" stroke="#444" stroke-width="1"/>
+<rect x="420" y="260" width="68" height="22" fill="#f1f3f5" stroke="#444" stroke-width="1"/>
+<line x1="420" y1="282" x2="488" y2="282" stroke="#bbb"/>
+<line x1="420" y1="304" x2="488" y2="304" stroke="#bbb"/>
+<text x="431.0" y="275" text-anchor="middle" font-size="12.5" font-weight="700" fill="#111">G</text>
+<text x="431.0" y="297" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">t</text>
+<text x="431.0" y="319" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">f</text>
+<line x1="442" y1="260" x2="442" y2="326" stroke="#bbb"/>
+<text x="465.0" y="275" text-anchor="middle" font-size="12.5" font-weight="700" fill="#111">P(J)</text>
+<text x="465.0" y="297" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">.9</text>
+<text x="465.0" y="319" text-anchor="middle" font-size="12.5" font-weight="400" fill="#111">.0</text>
+</svg>
